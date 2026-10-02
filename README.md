@@ -89,5 +89,5 @@ AI-powered healthcare application designed to provide intelligent assistance and
 
 ## 🤝 Let's Connect
 
-- • LinkedIn: https://www.linkedin.com/in/veeraraghavareddy123/ 
-- • Email: veeraraghavareddy2006@gmail.com
+- LinkedIn: https://www.linkedin.com/in/veeraraghavareddy123/ 
+- Email: veeraraghavareddy2006@gmail.com
