@@ -1,12 +1,13 @@
 # Hey, I'm Veera Raghava Reddy 👋
 
-### Software Engineer | Java • Spring Boot • GenAI
+### Software Engineer | Python • AI • ML • GenAI • Java • Spring Boot
 
 I'm a Computer Science student focused on building **scalable backend systems and AI-powered applications**.
 
 - 💻 Building backend systems with **Java & Spring Boot**
 - 🤖 Working on **RAG, LLMs, NLP & AI applications**
-- 🧠 Solved **1500+ DSA problems**
+- 🤖 Developed and Deployed Production level **RAG & AI applications**
+- 🧠 Solved **1500+ DSA problems across platfroms like Leetcode, GeeksforGeeks, Codeforces**
 - 🏆 **1st Place** — National AI Builder Hackathon
 - 🏆 Amazon Hackon 2025 **semifinalist**
 - 🚀 Amazon ML Challenge — **Top 2%**
@@ -14,7 +15,7 @@ I'm a Computer Science student focused on building **scalable backend systems an
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 **Languages**
 
@@ -36,11 +37,16 @@ I'm a Computer Science student focused on building **scalable backend systems an
 
 `Docker` `Git` `GitHub Actions` `CI/CD`
 
+**Core CS Fundamentals**
+
+`Data Structures` `Algorithms` `Operating Systems(OS)` `Database Managment Systems(DBMS)` `object-oriented programming(OOP)` `Low Level Design(LLD)`
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Study Companion
+### 🤖 [AI Study Companion](https://github.com/RAGHAVA-REDDY123/AI_STUDY_COMPANION)
+
 
 AI-powered learning platform using **RAG, hybrid search and reranking** to provide context-aware answers from uploaded study materials.
 
@@ -48,7 +54,7 @@ AI-powered learning platform using **RAG, hybrid search and reranking** to provi
 
 ---
 
-### 📄 AI Resume Screening Platform
+### 📄 [AI Resume Screening Platform](https://github.com/RAGHAVA-REDDY123/ATS_SCORING_AND_JOB_MATCHING_APP)
 
 AI-powered platform for resume analysis and job recommendations with a scalable backend architecture.
 
@@ -56,7 +62,7 @@ AI-powered platform for resume analysis and job recommendations with a scalable 
 
 ---
 
-### 💼 AI-Powered Investor Intelligence Platform
+### 💼 [FinSightAI- An Investor Intelligence Platform](https://github.com/RAGHAVA-REDDY123/FinSightAI)
 
 RAG-based platform for extracting financial insights and answering questions over financial documents.
 
@@ -64,11 +70,11 @@ RAG-based platform for extracting financial insights and answering questions ove
 
 ---
 
-### 🏫 University Query Assistant
+### 🏫 [AI-Powered Health Care App](https://github.com/RAGHAVA-REDDY123/AI-POWERED-HEALTH-CARE-APP)
 
-RAG-based assistant designed to answer university-related queries using semantic retrieval and role-aware access.
+AI-powered healthcare application designed to provide intelligent assistance and personalized insights through AI-driven analysis.
 
-**Tech:** Python • LangChain • ChromaDB • Hugging Face Embeddings
+**Tech**: Python • FastAPI • AI/ML • LLMs • PostgreSQL • Docker
 
 ---
 
@@ -81,14 +87,7 @@ RAG-based assistant designed to answer university-related queries using semantic
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-
----
-
 ## 🤝 Let's Connect
 
-[LinkedIn]https://www.linkedin.com/in/veeraraghavareddy123/ • [Email]veeraraghavareddy2006@gmail.com
+• LinkedIn: https://www.linkedin.com/in/veeraraghavareddy123/ 
+• Email: veeraraghavareddy2006@gmail.com
